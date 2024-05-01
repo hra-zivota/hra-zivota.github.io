@@ -4,7 +4,7 @@ let resolution = 10;
 let cols, rows;
 let grid;
 let isRunning = true; // Indikátor běhu hry
-let slow = false; // zpomalý hru
+let slow = true; // zpomalý hru
 var mouse = {
     x: undefined,
     y: undefined
